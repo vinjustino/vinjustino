@@ -10,16 +10,14 @@
 Atualmente estou estudando Java e Spring Boot. Meu objetivo é evoluir como desenvolvedor e, no futuro, atuar como Engenheiro de Software.
 </div>
 
-#
+## Minhas Habilidades:
 
-### Minhas Habilidades:
-
-#### Linguagen:
+### Linguagen:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
-#### Framework:
+### Framework:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
 </div>
@@ -28,14 +26,14 @@ Atualmente estou estudando Java e Spring Boot. Meu objetivo é evoluir como dese
 
 ###
 
-#### Ferramentas:
+### Ferramentas:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-#### Sistema operacional:
+### Sistema operacional:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 #
 
