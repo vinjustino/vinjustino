@@ -1,16 +1,26 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1050&lines=Me+chamo+Vinicius+Justino;+Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
-<!--
-**vinjustino/vinjustino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Backend Junior especializado em Java e Spring Boot. Desenvolvo APIs REST com foco em segurança, escalabilidade e boas práticas. Comprometido com evolução técnica contínua.
 
-Here are some ideas to get you started:
+## 🧠 O que eu faço
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅ Criação de APIs REST com Java e Spring Boot  
+✅ Autenticação e autorização com Spring Security  
+✅ Arquitetura limpa e em camadas  
+✅ Modelagem e integração com banco de dados PostgreSQL  
+✅ Containerização de aplicações com Docker
+
+## 🛠️ Tecnologias
+
+### Backend
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F03C2E.svg?style=for-the-badge&logo=Git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+
+Perfil em construção...
