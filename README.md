@@ -24,3 +24,9 @@ Desenvolvedor Backend Junior especializado em Java e Spring Boot. Desenvolvo API
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 
 Perfil em construção...
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinjustino/vinjustino/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinjustino/vinjustino/output/pacman-contribution-graph.svg">
+    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/vinjustino/vinjustino/output/pacman-contribution-graph.svg">
+</picture>
